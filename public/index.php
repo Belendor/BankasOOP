@@ -2,6 +2,8 @@
 
 use App\App;
 
-require '..\vendor\autoload.php';
+_d(__DIR__);
+
+require '.\..\vendor\autoload.php';
 
 $App = new App();
